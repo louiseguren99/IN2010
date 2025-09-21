@@ -1,0 +1,12 @@
+Effektive mengder
+
+a) 
+javac BinarySearchTree.java
+#eksempel testfil:
+java BinarySearchTree input_100.txt
+
+b) 
+javac AVLtree.java
+#eksempel testfil:
+java AVLtree input_100.txt
+
